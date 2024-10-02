@@ -46,7 +46,7 @@ export const TestimonialsSection = () => {
       <p className="uppercase font-bold tracking-widest bg-gradient-to-r from-emerald-300 to-sky-400  text-center bg-clip-text text-transparent">Happy Clients</p>
       <h2 className="font-serif text-3xl mt-6 text-center md:5xl">What Clients Say About Me</h2>
       <p className="text-center text-white/60 mt-4 md:text-lg max-w-md mx-auto lg:text-xl">
-        Don't just take my words for it. See what my clients have to say about my work.
+        Don&apos;t just take my words for it. See what my clients have to say about my work.
       </p>
     </div>
 
