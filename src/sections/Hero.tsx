@@ -134,10 +134,10 @@ export const HeroSection = () => {
             I specialize in transforming designs into functional, high-performing web applications. Let&apos;s discuss your next project.
           </p>
         </div>
-        <div className="flex flex-col md:flex-row justify-center items-center mt-8 gap-4 z-20">
+        <div className="flex flex-col md:flex-row justify-center items-center mt-8 gap-4">
           <a
             href="#Projects"
-            className="inline-flex items-center gap-2 border border-white/15 px-6 h-12 rounded-xl bg-yellow-300 text-gray-900 z-10 " // Ensure z-index is high
+            className="inline-flex items-center gap-2 border border-white/15 px-6 h-12 rounded-xl bg-yellow-300 text-gray-900 z-0" // Ensure z-index is high
           >
             <span className="font-semibold">Explore My Work</span>
             <ArrowDown className="size-4" />
@@ -145,7 +145,7 @@ export const HeroSection = () => {
 
           <a
             href="mailto:taranbrar9117@gmail.com"
-            className="inline-flex items-center gap-2 border border-white bg-white text-gray-900 h-12 px-6 rounded-xl z-10 " // Ensure z-index is high
+            className="inline-flex items-center gap-2 border border-white bg-white text-gray-900 h-12 px-6 rounded-xl z-0 " // Ensure z-index is high
           >
             <span>👋🏼</span>
             <span className="font-semibold">Let&apos;s Connect</span>
