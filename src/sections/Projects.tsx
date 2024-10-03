@@ -24,9 +24,9 @@ const portfolioProjects = [
     year: "2024",
     title: "Full Stack Music Streaming WebApp",
     results: [
-      { title: "Developed a full-stack music streaming application using the MERN stack" },
-      { title: "Implemented user authentication, music library management, and streaming capabilities" },
-      { title: "Customized user experience based on song listen activity and most liked song categories" },
+      { title: "MERN Stack music streaming application" },
+      { title: "Implemented user authentication" },
+      { title: "Get React router into play" },
     ],
     link: "https://musicbinge.netlify.app/",
     image: musicBinge,
@@ -34,11 +34,11 @@ const portfolioProjects = [
   {
     company: "Portfolio",
     year: "2024",
-    title: "nextJs Portfolio",
+    title: "NextJs Portfolio",
     results: [
       { title: "Taken TypeScript into play" },
       { title: "Userfriendly UI/UX" },
-      { title: "Tailwind to style" },
+      { title: "Tailwind to style and Animations" },
     ],
     link: "#",
     image: portfolio,
