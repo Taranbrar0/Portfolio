@@ -9,7 +9,7 @@ export const Footer = () => {
           <div className="text-white/40">&copy; 2024. All rights reserved.</div>
           <nav className="flex flex-col md:flex-row items-center gap-8 z-10">
             <a
-              href="https://www.instagram.com/taran_brar_/"
+              href="https://www.instagram.com/t4rn.br4r/"
               className="inline-flex items-center gap-1.5 hover:underline"
               target="_blank" // Open in a new tab
               rel="noopener noreferrer" // Prevent security issues
