@@ -29,7 +29,7 @@ export const Footer = () => {
             </a>
 
             <a
-              href="https://www.linkedin.com/in/taran-brar/"
+              href="https://www.linkedin.com/in/t4rn.br4r/"
               className="inline-flex items-center gap-1.5 hover:underline"
               target="_blank"
               rel="noopener noreferrer"
